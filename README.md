@@ -1,0 +1,1 @@
+do some django practice
